@@ -3,8 +3,11 @@
    "app_newPackageName":"",
    "app_AppOpenAdStatus":"0",
    "qureka":"",
-   "qureka_splash":"0",
+   "qureka_splash":"1",
    "qureka_status":"1",
+   "qureka_ad_status":"0",
+   "qureka_splash_link":"",
+   "qureka_splash_status":"0",
    "more_app":"https://raw.githubusercontent.com/catholister/mockjson/main/db.json",
    "admob_showAdStatus":"0",
    "AppID":"ca-app-pub-5517092987757413~8240781391",
@@ -19,4 +22,11 @@
    "topon_inter1":"",
    "topon_inter2":"",
    "topon_native":""
+   "FB_showAdStatus":"1",
+   "FB_bannernative":"1",
+   "FB_banner":"",
+   "FB_inter1":"",
+   "FB_inter2":"",
+   "FB_native":"",
+   "FB_nativebanner":""
 }
